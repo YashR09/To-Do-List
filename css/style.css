@@ -1,0 +1,40 @@
+.verticalLine {
+  border-left: 3px solid black;
+}
+
+#submitButton {
+  display: none;
+}
+body {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+.container {
+  background-color: #4C4C4C;
+  max-height: 63vh;
+  height: 63vh;
+}
+h2 {
+  color: #85C7F2;
+}
+h3 {
+  color: #85C7F2;
+}
+.abc {
+  overflow-y:auto;
+  height:auto;
+  max-height:40vh;
+  width:100%;
+}
+.text-value{
+  color: black;
+}
+li
+{
+  color: #DBDBDB;
+  font-size: 25px;
+}
